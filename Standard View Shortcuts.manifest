@@ -1,0 +1,14 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"author":	"gotiobg",
+	"description":	{
+		"":	"https://forums.autodesk.com/t5/fusion-360-design-validate/are-there-shortcut-keys-for-standard-views/td-p/7365929"
+	},
+	"supportedOS":	"windows",
+	"editEnabled":	true,
+	"id":	"720ed206-fb8e-4076-b42f-ea6138da1a47",
+	"version":	"2.0",
+	"runOnStartup":	true,
+	"sourcewindows":	"Standard View Shortcuts.vcxproj"
+}
